@@ -19,6 +19,10 @@ Query that returns how many employees are currently in each department
 ## Query 2
 Returns the average salary grouped by department
 
+### Concepts used
+
+- Multiple joins
+
 <img width="308" height="270" alt="02_Query_Results" src="https://github.com/user-attachments/assets/635e4f04-c35c-48af-8284-1070c0ce0c86" />
 
 ## Query 3
@@ -33,6 +37,12 @@ Returns the average pay, grouped by job title
 
 ## Query 5
 Returns a list of employees who have a salary above the average pay in their department
+
+### Concepts used
+
+- Common Table Expressions (CTE)
+- Multiple joins
+- Subqueries
 
 <img width="606" height="758" alt="05_Query_Result" src="https://github.com/user-attachments/assets/7445f2e4-c7c8-4de6-be49-866ebe7c6cfe" />
 
