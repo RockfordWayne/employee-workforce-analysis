@@ -5,10 +5,6 @@ source of data: https://github.com/neondatabase/postgres-sample-dbs
 
 The "employees.sql.gz" file was used for these queries
 
-# Power BI Chart for Queries #1, #3, and #6
-
-<img width="1452" height="817" alt="BI_Employees_Charts" src="https://github.com/user-attachments/assets/f11c1fb5-aa09-4b29-94a1-12c52527c5d1" />
-
 # Query Results
 
 ## Query 1 
@@ -103,4 +99,8 @@ Returns a list of current department managers and their salaries
 - Inner Joins
 
 <img width="404" height="642" alt="10_Query_Result" src="https://github.com/user-attachments/assets/c593110b-3a21-41ff-8e7a-b08a534d5bfa" />
+
+# Power BI Chart for Queries #1, #3, and #6
+
+<img width="1452" height="817" alt="BI_Employees_Charts" src="https://github.com/user-attachments/assets/f11c1fb5-aa09-4b29-94a1-12c52527c5d1" />
 
