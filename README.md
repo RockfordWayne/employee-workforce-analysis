@@ -35,7 +35,7 @@ Returns a list of employees who have a salary above the average pay in their dep
 ## Query 6
 Returns a list of employees showing their salary progression over time
 
-<img width="757" height="745" alt="06b_Query_Result" src="https://github.com/user-attachments/assets/0e0d584c-161e-4339-bee0-a442c4ea6088" />
+<img width="867" height="743" alt="06b_Query_Result" src="https://github.com/user-attachments/assets/9333cf08-8976-43ce-a2a1-797d3b495bcb" />
 
 ## Query 7 
 Shows a table of employees who have worked in more than one department, including the count
