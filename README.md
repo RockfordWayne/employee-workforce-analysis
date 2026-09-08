@@ -15,26 +15,45 @@ Query that returns how many employees are currently in each department
 ## Query 2
 Returns the average salary grouped by department
 
+<img width="308" height="270" alt="02_Query_Results" src="https://github.com/user-attachments/assets/635e4f04-c35c-48af-8284-1070c0ce0c86" />
+
 ## Query 3
 Returns the ten employees with the highest salaries
+
+<img width="499" height="303" alt="03_Query_Results" src="https://github.com/user-attachments/assets/a8367aff-3e35-44e6-941c-1b8942e0fad1" />
 
 ## Query 4
 Returns the average pay, grouped by job title
 
+<img width="300" height="224" alt="04_Query_Result" src="https://github.com/user-attachments/assets/628ca740-b806-4de5-88ef-577eaab3219c" />
+
 ## Query 5
 Returns a list of employees who have a salary above the average pay in their department
+
+<img width="606" height="758" alt="05_Query_Result" src="https://github.com/user-attachments/assets/7445f2e4-c7c8-4de6-be49-866ebe7c6cfe" />
 
 ## Query 6
 Returns a list of employees showing their salary progression over time
 
+<img width="757" height="745" alt="06b_Query_Result" src="https://github.com/user-attachments/assets/0e0d584c-161e-4339-bee0-a442c4ea6088" />
+
 ## Query 7 
 Shows a table of employees who have worked in more than one department, including the count
+
+<img width="449" height="692" alt="07_Query_Result" src="https://github.com/user-attachments/assets/4b9b04ca-0ac7-4a1c-bb07-96898477eb10" />
 
 ## Query 8
 Returns a list of employees who have changed their job title, including a count of how many positions they have held
 
+<img width="715" height="641" alt="08_Query_Result" src="https://github.com/user-attachments/assets/7e1bdb9f-2ba0-42b2-b144-d8ea7eb5f0c5" />
+
 ## Query 9
 Returns a list of the average tenure of employees in a department
 
+<img width="313" height="274" alt="09_Query_Result" src="https://github.com/user-attachments/assets/65aa8520-7321-443b-9778-3d978204e621" />
+
 ## Query 10
 Returns a list of current department managers and their salaries
+
+<img width="404" height="642" alt="10_Query_Result" src="https://github.com/user-attachments/assets/c593110b-3a21-41ff-8e7a-b08a534d5bfa" />
+
