@@ -21,7 +21,7 @@ Returns the average salary grouped by department
 
 ### Concepts used
 
-- Multiple joins
+- Inner Joins
 
 <img width="308" height="270" alt="02_Query_Results" src="https://github.com/user-attachments/assets/635e4f04-c35c-48af-8284-1070c0ce0c86" />
 
@@ -41,7 +41,7 @@ Returns a list of employees who have a salary above the average pay in their dep
 ### Concepts used
 
 - Common Table Expressions (CTE)
-- Multiple joins
+- Multiple Inner Joins
 - Subqueries
 
 <img width="606" height="758" alt="05_Query_Result" src="https://github.com/user-attachments/assets/7445f2e4-c7c8-4de6-be49-866ebe7c6cfe" />
@@ -51,7 +51,7 @@ Returns a list of employees showing their salary progression over time
 
 ### Concepts used
 
-- Joins
+- Multiple Inner Joins
 - LAG
 - PARTITION
 
@@ -62,9 +62,9 @@ Shows a table of employees who have worked in more than one department, includin
 
 ### Concepts used
 
-- Aggregate function (COUNT)
-- HAVING clause
-- Joins
+- Aggregate Function (COUNT)
+- HAVING Clause
+- Inner Joins
 
 <img width="449" height="692" alt="07_Query_Result" src="https://github.com/user-attachments/assets/4b9b04ca-0ac7-4a1c-bb07-96898477eb10" />
 
@@ -74,9 +74,9 @@ Returns a list of employees who have changed their job title, including a count 
 ### Concepts used
 
 - CTE
-- Aggregate function (COUNT)
-- HAVING clause
-- Joins
+- Aggregate Function (COUNT)
+- HAVING Clause
+- Inner Joins
 
 <img width="715" height="641" alt="08_Query_Result" src="https://github.com/user-attachments/assets/7e1bdb9f-2ba0-42b2-b144-d8ea7eb5f0c5" />
 
@@ -85,7 +85,7 @@ Returns a list of the average tenure of employees in a department
 
 ### Concepts used
 
-- CASE statement
+- CASE Statement
 - Inner Join
 
 <img width="313" height="274" alt="09_Query_Result" src="https://github.com/user-attachments/assets/65aa8520-7321-443b-9778-3d978204e621" />
@@ -95,8 +95,8 @@ Returns a list of current department managers and their salaries
 
 ### Concepts used
 
-- Aggregate function (MAX)
-- Joins
+- Aggregate Function (MAX)
+- Inner Joins
 
 <img width="404" height="642" alt="10_Query_Result" src="https://github.com/user-attachments/assets/c593110b-3a21-41ff-8e7a-b08a534d5bfa" />
 
