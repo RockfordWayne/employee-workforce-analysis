@@ -43,6 +43,7 @@ Returns a list of employees who have a salary above the average pay in their dep
 - Common Table Expressions (CTE)
 - Multiple Inner Joins
 - Subqueries
+- Historical data filtering
 
 <img width="606" height="758" alt="05_Query_Result" src="https://github.com/user-attachments/assets/7445f2e4-c7c8-4de6-be49-866ebe7c6cfe" />
 
