@@ -10,6 +10,9 @@ The "employees.sql.gz" file was used for these queries
 ## Query 1 
 Query that returns how many employees are currently in each department
 
+**Concepts used**
+Inner Join
+
 <img width="290" height="272" alt="01_Query_Results" src="https://github.com/user-attachments/assets/343a69e9-86bb-4c68-891f-d041b7d9c371" />
 
 ## Query 2
