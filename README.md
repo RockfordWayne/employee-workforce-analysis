@@ -98,6 +98,7 @@ Returns a list of current department managers and their salaries
 
 - Aggregate Function (MAX)
 - Inner Joins
+- Filtering with Subqueries
 
 <img width="404" height="642" alt="10_Query_Result" src="https://github.com/user-attachments/assets/c593110b-3a21-41ff-8e7a-b08a534d5bfa" />
 
