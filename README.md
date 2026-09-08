@@ -49,25 +49,54 @@ Returns a list of employees who have a salary above the average pay in their dep
 ## Query 6
 Returns a list of employees showing their salary progression over time
 
+### Concepts used
+
+- Joins
+- LAG
+- PARTITION
+
 <img width="867" height="743" alt="06b_Query_Result" src="https://github.com/user-attachments/assets/9333cf08-8976-43ce-a2a1-797d3b495bcb" />
 
 ## Query 7 
 Shows a table of employees who have worked in more than one department, including the count
+
+### Concepts used
+
+- Aggregate function (COUNT)
+- HAVING clause
+- Joins
 
 <img width="449" height="692" alt="07_Query_Result" src="https://github.com/user-attachments/assets/4b9b04ca-0ac7-4a1c-bb07-96898477eb10" />
 
 ## Query 8
 Returns a list of employees who have changed their job title, including a count of how many positions they have held
 
+### Concepts used
+
+- CTE
+- Aggregate function (COUNT)
+- HAVING clause
+- Joins
+
 <img width="715" height="641" alt="08_Query_Result" src="https://github.com/user-attachments/assets/7e1bdb9f-2ba0-42b2-b144-d8ea7eb5f0c5" />
 
 ## Query 9
 Returns a list of the average tenure of employees in a department
 
+### Concepts used
+
+- CASE statement
+- Inner Join
+
 <img width="313" height="274" alt="09_Query_Result" src="https://github.com/user-attachments/assets/65aa8520-7321-443b-9778-3d978204e621" />
 
 ## Query 10
 Returns a list of current department managers and their salaries
+
+### Concepts used
+
+- Aggregate function (MAX)
+- Joins
 
 <img width="404" height="642" alt="10_Query_Result" src="https://github.com/user-attachments/assets/c593110b-3a21-41ff-8e7a-b08a534d5bfa" />
 
